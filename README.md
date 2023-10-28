@@ -60,6 +60,7 @@ Potential advancements and extensions for this project include:
 ---
 ## Note
 For a comprehensive understanding of the methodologies and conclusions drawn in this project, it is recommended to go through both notebooks in detail, including the code and its outputs.
+For an HTML view of the  `comparing-speech-to-text-systems` notebook click [here](https://nbviewer.org/github/JESUSC1/Speech-to-Text-Transcription-and-Analysis/blob/main/comparing-speech-to-text-systems.ipynb) while the HTML version of the `transcript-conversion-analysis` notebook can be found [here](https://nbviewer.org/github/JESUSC1/Speech-to-Text-Transcription-and-Analysis/blob/main/transcript-conversion-analysis.ipynb)
 
 ---
 #### Author
