@@ -29,7 +29,7 @@ The project utilizes a variety of libraries and services to facilitate speech re
 The project's primary objective is to transcribe spoken language with high accuracy. Analyses are divided into two Python notebooks. 
 
 `comparing-speech-to-text-systems` notebook:
-- Transcription Engines: This notebook delves into the comparison and utilization of various online speech-to-text systems such as GCP, AWS, IBM, Azure, and Rev.ai.
+- `Transcription Engines`: This notebook delves into the comparison and utilization of various online speech-to-text systems such as GCP, AWS, IBM, Azure, and Rev.ai.
 
 
 `transcript-conversion-analysis` notebook:
