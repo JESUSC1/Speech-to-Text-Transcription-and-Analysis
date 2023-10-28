@@ -6,7 +6,11 @@ This project delves into the realm of speech recognition, aiming to convert spok
 ---
 
 ## Data Source
-The project utilizes various audio samples as primary data sources. These samples include live recordings and pre-recorded audio files, especially from the [TalkBank](https://talkbank.org/) project and its `HomeBank` data. The `transcript-conversion-analysis` notebook focuses on the exploration and processing of this data.
+This project employs a range of audio samples as its foundational data sources:
+
+- The `comparing-speech-to-text-systems` notebook primarily employs diverse audio samples to evaluate and compare various online transcription services. These samples encompass live recordings and pre-recorded audio files, including those of children's voices, to assess the transcription efficacy of each service.
+
+- The data in the `transcript-conversion-analysis` notebook predominantly stems from the [TalkBank](https://talkbank.org/) project, specifically its HomeBank component. `HomeBank` is a rich resource of shared recordings documenting children's everyday experiences. This notebook delves deep into the exploration, conversion, and analysis of transcripts derived from this data.
 
 ---
 
@@ -22,14 +26,18 @@ The project utilizes a variety of libraries and services to facilitate speech re
 
 ---
 ## Analysis
-The project's primary objective is to transcribe spoken language with high accuracy. 
+The project's primary objective is to transcribe spoken language with high accuracy. Analyses are divided into two Python notebooks. 
 
-- `Transcription Engines`: The `comparing-speech-to-text-systems` notebook delves into the comparison and utilization of various online speech-to-text systems.
-- `Transcript Conversion`: The `transcript-conversion-analysis` notebook details methods for converting and structuring the transcripts for subsequent analysis.
-- `Frequency Analysis`: Within the `transcript-conversion-analysis` notebook, methodologies are provided for evaluating word and phrase frequencies.
-- `Sentiment Analysis`: The potential for sentiment analysis is highlighted in the `transcript-conversion-analysis` notebook.
-- `Length Analysis`: The `transcript-conversion-analysis` notebook investigates statement lengths and verbosity patterns.
-- `Topic Modeling`: Potential topic identification from the transcribed data is discussed in the `transcript-conversion-analysis` notebook.
+`comparing-speech-to-text-systems` notebook:
+- Transcription Engines: This notebook delves into the comparison and utilization of various online speech-to-text systems such as GCP, AWS, IBM, Azure, and Rev.ai.
+
+
+`transcript-conversion-analysis` notebook:
+- `Transcript Conversion`: Details methods for converting and structuring the transcripts for subsequent analysis.
+- `Frequency Analysis`: Methodologies are provided for evaluating word and phrase frequencies.
+- `Sentiment Analysis`: Highlights the potential for sentiment analysis.
+- `Length Analysis`: Investigates statement lengths and verbosity patterns.
+- `Topic Modeling`: Discusses potential topic identification from the transcribed data.
 
 ---
 ## Key Achievements
