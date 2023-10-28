@@ -1,0 +1,115 @@
+child: yyy .
+mother: okay hold on .
+child: xxx yyy .
+mother: alright, let Mommy fix it .
+mother: hm .
+child: huh .
+child: yyy .
+mother: can you move ?
+mother: Ray you want Mommy to fix it ?
+child: &=grunts .
+mother: if you want Mommy to fix it you have to step over here .
+mother: okay .
+mother: well I need that !
+child: yeah !
+mother: yeah !
+mother: you didn't fix it .
+child: uhoh .
+mother: uhoh is right .
+child: yeah yyy .
+mother: oh no .
+child: &-uh yyy !
+mother: what ?
+child: yyy .
+mother: say +"/.
+mother: +" oh man !
+child: yyy .
+mother: Swiper no swiping !
+mother: oh man !
+child: Swiper no swiping .
+mother: Swiper no swiping .
+child: &=squeals .
+mother: hold up .
+mother: I'm gonna [: going to] do it .
+mother: thank you .
+mother: it goes this way .
+mother: and that one goes this +/.
+child: no, I gonna [: going to] +/.
+mother: oh you're gonna [: going to] do it .
+mother: okay .
+child: okay .
+child: &-uh yyy !
+mother: okay can you move so Mommy can fix the rest of it ?
+child: yyy .
+mother: thank you .
+child: yyy .
+child: hm .
+child: yyy choo_choo train .
+child: choo_choo train yyy .
+child: choo_choo train &~imit:horn .
+child: yyy .
+child: yyy .
+mother: can I have that ?
+child: have choo_choo train .
+mother: oh thank you .
+child: &=yells yyy .
+mother: hm ?
+child: yyy .
+mother: is that outside ?
+child: outside cold .
+mother: outside's cold .
+child: yes .
+mother: is it cold out there ?
+child: yes .
+child: it cold .
+mother: are you sure ?
+child: brr@o yyy cold yyy .
+mother: it is cold today yeah .
+child: cold .
+mother: mhm .
+child: yeah .
+child: (..) &=cries .
+mother: oh no !
+child: broken .
+mother: yeah .
+child: brʌbrʌbʌbʌ@b .
+mother: Mama didn't get it on far enough .
+child: &=grunts .
+mother: hm ?
+child: hm .
+mother: hm .
+child: yeah &=laughs .
+mother: are we gonna [: going to] fix it ?
+child: kægægæ@b .
+mother: oh my goodness .
+mother: Mama's got it upside down .
+child: gugʊdu@b .
+mother: alright, let's see .
+child: bababa@b !
+child: brʊbʌbʌ@b whoa !
+child: oh no &=mumbles .
+child: yyy .
+mother: yeah ?
+child: my tummy burps .
+child: it burps yyy &=groans .
+mother: okay .
+child: &=gulps .
+mother: you're back in business .
+mother: what is that ?
+child: mm, it good .
+mother: is it good ?
+mother: is it juice ?
+child: choo_choo train .
+mother: you want Elmo to come play ?
+child: yyy &=mumbles .
+mother: alright look here's Elmo .
+child: Elmo dududu@b I got I &-uh me choo_choo train yyy
+child: shushushu@b shushushu@b shushu@b .
+child: &=yells oh !
+mother: oh !
+mother: ready set go .
+mother: did you see it go ?
+child: it go [/] go [/] go [/] go  !
+mother: alright be careful in there you're gonna [: going to] knock it down
+child: up [/] up  !
+child: yyy .

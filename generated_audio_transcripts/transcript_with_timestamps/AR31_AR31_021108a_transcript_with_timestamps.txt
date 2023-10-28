@@ -1,0 +1,299 @@
+[00:00:00 - 00:00:01] *CHI:	choo_choo train . 0_1180
+[00:00:02 - 00:00:04] %mor:	on|choo&DUP n|train .
+[00:00:05 - 00:00:06] %gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+[00:00:07 - 00:00:07] *CHI:	choo_choo train go bye . 1180_4341
+[00:00:08 - 00:00:10] %mor:	on|choo&DUP n|train v|go co|bye .
+[00:00:11 - 00:00:13] %gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+[00:00:15 - 00:00:17] *CHI:	&=yells hm . 4341_6515
+[00:00:18 - 00:00:18] %mor:	co|hm .
+[00:00:19 - 00:00:20] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:00:21 - 00:00:51] *CHI:	hm I no xxx choo_choo train . 6515_10964
+[00:00:52 - 00:00:57] %mor:	co|hm pro:sub|I co|no on|choo&DUP n|train .
+[00:00:58 - 00:00:58] %gra:	1|5|COM 2|5|SUBJ 3|5|COM 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+[00:01:00 - 00:01:00] *CHI:	da_da_da_da_da@si . 10964_13078
+[00:01:01 - 00:01:06] %mor:	sing|da_da_da_da_da .
+[00:01:07 - 00:01:16] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:01:17 - 00:01:17] *CHI:	yyy yyy pee_pee . 13078_17652
+[00:01:18 - 00:01:19] %mor:	n|pee&DUP .
+[00:01:20 - 00:01:21] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:01:22 - 00:01:24] %xpho:	d^ S^
+[00:01:26 - 00:01:28] *CHI:	yyy . 17652_19251
+[00:01:29 - 00:01:31] %xpho:	hi
+[00:01:32 - 00:01:35] *MOT:	alright Ray let's go sit on the pee_pee pot . 19251_23792
+[00:01:35 - 00:01:38] %mor:	co|alright n:prop|Ray v|let~pro:obj|us v|go v|sit prep|on
+[00:01:39 - 00:01:39] det:art|the n|pee&DUP n|pot .
+[00:01:40 - 00:01:42] %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SRL 6|3|COMP 7|6|JCT 8|10|DET
+[00:01:43 - 00:01:44] 9|10|MOD 10|7|POBJ 11|3|PUNCT
+[00:01:44 - 00:01:45] *MOT:	&=shivers . 23792_26619
+[00:01:46 - 00:01:48] *CHI:	&=squeals . 26619_29645
+[00:01:50 - 00:01:51] *MOT:	oh, pee_pee pot time . 29645_33213
+[00:01:51 - 00:01:52] %mor:	co|oh cm|cm n|pee&DUP n|pot n|time .
+[00:01:53 - 00:01:54] %gra:	1|5|COM 2|1|LP 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+[00:01:57 - 00:01:58] *CHI:	no [/] no  . 33213_34097
+[00:01:59 - 00:02:01] %mor:	co|no .
+[00:02:02 - 00:02:06] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:02:07 - 00:02:09] *MOT:	yeah [/] yeah [/] yeah  . 34097_35793
+[00:02:10 - 00:02:11] %mor:	co|yeah .
+[00:02:12 - 00:02:12] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:02:13 - 00:02:14] *CHI:	no [/] no [/] no  . 35793_37805
+[00:02:15 - 00:02:16] %mor:	co|no .
+[00:02:17 - 00:02:17] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:02:20 - 00:02:20] *MOT:	yeah we gotta [: have to] sit on the pee_pee pot . 37805_39728
+[00:02:22 - 00:02:24] %mor:	co|yeah pro:sub|we v|have inf|to v|sit prep|on det:art|the
+[00:02:25 - 00:02:26] n|pee&DUP n|pot .
+[00:02:27 - 00:02:28] %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+[00:02:29 - 00:02:30] 9|6|POBJ 10|3|PUNCT
+[00:02:33 - 00:02:33] *MOT:	oh nope +/. 39728_42060
+[00:02:34 - 00:02:35] %mor:	co|oh co|nope +/.
+[00:02:36 - 00:02:39] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:02:40 - 00:02:51] *MOT:	ow you just hit me in the mouth . 42060_43480
+[00:02:53 - 00:02:54] %mor:	co|ow pro:per|you adv|just v|hit&ZERO pro:obj|me prep|in
+[00:02:56 - 00:02:57] det:art|the n|mouth .
+[00:02:58 - 00:02:59] %gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+[00:02:59 - 00:03:01] 9|4|PUNCT
+[00:03:02 - 00:03:03] *MOT:	you sit on the pee_pee pot . 43480_46581
+[00:03:04 - 00:03:05] %mor:	pro:per|you v|sit prep|on det:art|the n|pee&DUP n|pot .
+[00:03:05 - 00:03:07] %gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+[00:03:08 - 00:03:09] *CHI:	&=cries . 46581_47423
+[00:03:10 - 00:03:10] *MOT:	I know come on . 47423_48091
+[00:03:11 - 00:03:13] %mor:	pro:sub|I v|know v|come adv|on .
+[00:03:13 - 00:03:15] %gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|2|PUNCT
+[00:03:16 - 00:03:16] *CHI:	&=screams . 48091_49065
+[00:03:17 - 00:03:19] *MOT:	oh . 49065_52846
+[00:03:20 - 00:03:20] %mor:	co|oh .
+[00:03:21 - 00:03:26] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:03:27 - 00:03:28] *MOT:	you pooped in your pants Ray . 52846_58031
+[00:03:29 - 00:03:31] %mor:	pro:per|you v|poop-PAST prep|in det:poss|your v|pant-3S n:prop|Ray
+[00:03:32 - 00:03:35] .
+[00:03:36 - 00:03:41] %gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|OBJ 7|2|PUNCT
+[00:03:41 - 00:03:42] *MOT:	we didn't make it did we ? 58031_62920
+[00:03:43 - 00:03:48] %mor:	pro:sub|we mod|do&PAST~neg|not v|make pro:per|it mod|do&PAST
+[00:03:49 - 00:03:52] pro:sub|we ?
+[00:03:53 - 00:03:57] %gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|4|PUNCT
+[00:03:58 - 00:03:59] *CHI:	no go poo_poo pants . 62920_65791
+[00:04:01 - 00:04:10] %mor:	co|no v|go v|poo&DUP v|pant-3S .
+[00:04:11 - 00:04:11] %gra:	1|3|COM 2|3|SRL 3|0|ROOT 4|3|COMP 5|3|PUNCT
+[00:04:12 - 00:04:16] *MOT:	yeah can you stay right +/. 65791_68557
+[00:04:18 - 00:04:24] %mor:	co|yeah mod|can pro:per|you v|stay co|right +/.
+[00:04:25 - 00:04:25] %gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COM 6|4|PUNCT
+[00:04:26 - 00:04:28] *CHI:	ah shoot . 68557_69608
+[00:04:29 - 00:04:31] %mor:	co|ah n|shoot .
+[00:04:33 - 00:04:33] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:34 - 00:04:34] *MOT:	yeah ah shoot . 69608_70828
+[00:04:37 - 00:04:40] %mor:	co|yeah co|ah n|shoot .
+[00:04:41 - 00:04:49] %gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+[00:04:50 - 00:04:57] *MOT:	Mama didn't get to you in time did she ? 70828_74592
+[00:04:58 - 00:05:00] %mor:	n:prop|Mama mod|do&PAST~neg|not v|get prep|to pro:per|you prep|in
+[00:04:58 - 00:05:00] n|time mod|do&PAST pro:sub|she ?
+[00:04:58 - 00:05:00] %gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|10|SUBJ
+[00:04:58 - 00:05:00] 9|10|AUX 10|7|POBJ 11|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah . 74592_76507
+[00:04:58 - 00:05:00] %mor:	co|yeah .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	what ? 76507_77804
+[00:04:58 - 00:05:00] %mor:	pro:int|what ?
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	too stinky . 77804_79943
+[00:04:58 - 00:05:00] %mor:	adv|too adj|stink&dn-Y .
+[00:04:58 - 00:05:00] %gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	yeah you're too stinky . 79943_81379
+[00:04:58 - 00:05:00] %mor:	co|yeah pro:per|you~cop|be&PRES adv|too adj|stink&dn-Y .
+[00:04:58 - 00:05:00] %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+[00:04:58 - 00:05:00] *MOT:	that was supposed to go in the pee_pee pot . 81379_84959
+[00:04:58 - 00:05:00] %mor:	pro:dem|that aux|be&PAST&13S part|suppose-PASTP inf|to v|go prep|in
+[00:04:58 - 00:05:00] det:art|the n|pee&DUP n|pot .
+[00:04:58 - 00:05:00] %gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+[00:04:58 - 00:05:00] 9|6|POBJ 10|3|PUNCT
+[00:04:58 - 00:05:00] *CHI:	oh no ! 84959_88638
+[00:04:58 - 00:05:00] %mor:	co|oh co|no !
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	that too was supposed to go in the pot . 88638_92088
+[00:04:58 - 00:05:00] %mor:	pro:dem|that adv|too aux|be&PAST&13S part|suppose-PASTP inf|to v|go
+[00:04:58 - 00:05:00] prep|in det:art|the n|pot .
+[00:04:58 - 00:05:00] %gra:	1|4|SUBJ 2|3|JCT 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+[00:04:58 - 00:05:00] 9|7|POBJ 10|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	oh no ! 92088_94496
+[00:04:58 - 00:05:00] %mor:	co|oh co|no !
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	wasn't it ? 94496_95264
+[00:04:58 - 00:05:00] %mor:	cop|be&PAST&13S~neg|not pro:per|it ?
+[00:04:58 - 00:05:00] %gra:	1|0|ROOT 2|1|NEG 3|1|SUBJ 4|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	oh shoot . 95264_97401
+[00:04:58 - 00:05:00] %mor:	co|oh n|shoot .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	yeah yuck . 97401_98682
+[00:04:58 - 00:05:00] %mor:	co|yeah co|yuck .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yuck it stink . 98682_100700
+[00:04:58 - 00:05:00] %mor:	v|yuck pro:per|it v|stink .
+[00:04:58 - 00:05:00] %gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	it +/. 100700_101740
+[00:04:58 - 00:05:00] %mor:	pro:per|it +/.
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	ah shoot . 101740_102764
+[00:04:58 - 00:05:00] %mor:	co|ah n|shoot .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	pyoo@o . 102764_103982
+[00:04:58 - 00:05:00] %mor:	on|pyoo .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	ah shoot . 103982_107879
+[00:04:58 - 00:05:00] %mor:	co|ah n|shoot .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	yuck . 107879_114051
+[00:04:58 - 00:05:00] %mor:	co|yuck .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	ah shoot . 114051_120265
+[00:04:58 - 00:05:00] %mor:	co|ah n|shoot .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	Ray you have to learn how to poop in the pot . 120265_126692
+[00:04:58 - 00:05:00] %mor:	n:prop|Ray pro:per|you v|have inf|to v|learn pro:int|how inf|to
+[00:04:58 - 00:05:00] v|poop prep|in det:art|the n|pot .
+[00:04:58 - 00:05:00] %gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|LINK 7|8|INF 8|5|COMP
+[00:04:58 - 00:05:00] 9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah pee poo_poo pot . 126692_131372
+[00:04:58 - 00:05:00] %mor:	co|yeah n|pee n|poo&DUP n|pot .
+[00:04:58 - 00:05:00] %gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	poo_poo pot . 131372_134762
+[00:04:58 - 00:05:00] %mor:	n|poo&DUP n|pot .
+[00:04:58 - 00:05:00] %gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	poo_poo pot . 134762_136795
+[00:04:58 - 00:05:00] %mor:	n|poo&DUP n|pot .
+[00:04:58 - 00:05:00] %gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	birbirbir@b b^rb^rb^r@b b^rb^rb^rs@b . 136795_161977
+[00:04:58 - 00:05:00] %mor:	bab|birbirbir bab|brbrbr bab|brbrbrs .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yyy yyy yyy &=squeals ! 161977_166961
+[00:04:58 - 00:05:00] %xpho:	eI ha: baej^
+[00:04:58 - 00:05:00] *MOT:	no screaming . 166961_168237
+[00:04:58 - 00:05:00] %mor:	co|no part|scream-PRESP .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	&=yells &=vocalizes . 168237_181090
+[00:04:58 - 00:05:00] *MOT:	if you'd poop in the pot Mama wouldn't have to wipe your hiney . 181090_191070
+[00:04:58 - 00:05:00] %mor:	conj|if pro:per|you~mod|genmod n|poop prep|in det:art|the n|pot
+[00:04:58 - 00:05:00] n:prop|Mama mod|will&COND~neg|not aux|have inf|to v|wipe
+[00:04:58 - 00:05:00] det:poss|your n|hiney .
+[00:04:58 - 00:05:00] %gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|13|CJCT 5|4|NJCT 6|7|DET 7|5|POBJ 8|13|SUBJ
+[00:04:58 - 00:05:00] 9|13|AUX 10|9|NEG 11|13|AUX 12|13|INF 13|0|ROOT 14|15|DET 15|13|OBJ
+[00:04:58 - 00:05:00] 16|13|PUNCT
+[00:04:58 - 00:05:00] *MOT:	xxx do it . 191070_192674
+[00:04:58 - 00:05:00] %mor:	mod|do pro:per|it .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	&=groans . 192674_194856
+[00:04:58 - 00:05:00] *MOT:	where were you supposed to poop ? 194856_199195
+[00:04:58 - 00:05:00] %mor:	pro:rel|where cop|be&PAST pro:per|you v|suppose-PAST inf|to v|poop
+[00:04:58 - 00:05:00] ?
+[00:04:58 - 00:05:00] %gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|6|INF 6|4|COMP 7|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	in the pot . 199195_200820
+[00:04:58 - 00:05:00] %mor:	prep|in det:art|the n|pot .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yyy I poop yyy change me &=gurgles . 200820_206422
+[00:04:58 - 00:05:00] %mor:	pro:sub|I v|poop v|change pro:obj|me .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+[00:04:58 - 00:05:00] %xpho:	z^n j^g^
+[00:04:58 - 00:05:00] *CHI:	yeah &=mumbles yyy yyy . 206422_216185
+[00:04:58 - 00:05:00] %mor:	co|yeah .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] %xpho:	je a tsu
+[00:04:58 - 00:05:00] *CHI:	disusutam@b . 216185_225406
+[00:04:58 - 00:05:00] %mor:	bab|disusutam .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	what are you doing with your tongue &=flaps_tongue ? 225406_228396
+[00:04:58 - 00:05:00] %mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP prep|with
+[00:04:58 - 00:05:00] det:poss|your n|tongue ?
+[00:04:58 - 00:05:00] %gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah gaesutsuye@b dehuduye@b ^ngis@b . 228396_237116
+[00:04:58 - 00:05:00] %mor:	co|yeah bab|gaesutsuye bab|dehuduye bab|ngis .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	hm ? 237116_237611
+[00:04:58 - 00:05:00] %mor:	co|hm ?
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	&=laughs &=flaps_tongue . 237611_239994
+[00:04:58 - 00:05:00] *CHI:	wrong pee_pee pot go in . 239994_243716
+[00:04:58 - 00:05:00] %mor:	adj|wrong n|pee&DUP n|pot v|go adv|in .
+[00:04:58 - 00:05:00] %gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+[00:04:58 - 00:05:00] *MOT:	you didn't pee_pee in +/. 243716_244922
+[00:04:58 - 00:05:00] %mor:	pro:per|you mod|do&PAST~neg|not v|pee&DUP adv|in +/.
+[00:04:58 - 00:05:00] %gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yyy . 244922_245754
+[00:04:58 - 00:05:00] %xpho:	gabimeIs^
+[00:04:58 - 00:05:00] *MOT:	you didn't pee_pee in the pot ! 245754_247442
+[00:04:58 - 00:05:00] %mor:	pro:per|you mod|do&PAST~neg|not v|pee&DUP prep|in det:art|the n|pot
+[00:04:58 - 00:05:00] !
+[00:04:58 - 00:05:00] %gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yyy pee_p(ee) +/. 247442_249287
+[00:04:58 - 00:05:00] %mor:	n|pee&DUP +/.
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] %xpho:	tuz
+[00:04:58 - 00:05:00] *MOT:	you pooped in your pants . 249287_250274
+[00:04:58 - 00:05:00] %mor:	pro:per|you v|poop-PAST prep|in det:poss|your n:pt|pants .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah xxx . 250274_251588
+[00:04:58 - 00:05:00] %mor:	co|yeah .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	that's not good . 251588_253505
+[00:04:58 - 00:05:00] %mor:	pro:dem|that~cop|be&3S neg|not adj|good .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah Elmo poop yyy . 253505_255441
+[00:04:58 - 00:05:00] %mor:	co|yeah n:prop|Elmo n|poop .
+[00:04:58 - 00:05:00] %gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+[00:04:58 - 00:05:00] %xpho:	^
+[00:04:58 - 00:05:00] *MOT:	yeah, that's Elmo . 255441_256810
+[00:04:58 - 00:05:00] %mor:	co|yeah cm|cm pro:rel|that~cop|be&3S n:prop|Elmo .
+[00:04:58 - 00:05:00] %gra:	1|4|COM 2|1|LP 3|4|LINK 4|0|ROOT 5|4|PRED 6|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah it broken it yyy . 256810_261521
+[00:04:58 - 00:05:00] %mor:	co|yeah pro:per|it part|break&PASTP pro:per|it .
+[00:04:58 - 00:05:00] %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+[00:04:58 - 00:05:00] %xpho:	dab^haI
+[00:04:58 - 00:05:00] *MOT:	yeah Elmo's broken he's a sticker and he's broke . 261521_265786
+[00:04:58 - 00:05:00] %mor:	co|yeah n:prop|Elmo~aux|be&3S part|break&PASTP pro:sub|he~cop|be&3S
+[00:04:58 - 00:05:00] det:art|a n|stick&dv-AGT coord|and pro:sub|he~cop|be&3S adj|broke .
+[00:04:58 - 00:05:00] %gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|PRED
+[00:04:58 - 00:05:00] 9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|PRED 13|4|PUNCT
+[00:04:58 - 00:05:00] *CHI:	it sticker it sticks . 265786_268329
+[00:04:58 - 00:05:00] %mor:	pro:per|it n|stick&dv-AGT pro:per|it v|stick-3S .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	hm . 268329_270456
+[00:04:58 - 00:05:00] %mor:	co|hm .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	alright feet . 270456_271457
+[00:04:58 - 00:05:00] %mor:	co|alright n|foot&PL .
+[00:04:58 - 00:05:00] %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah yyy . 271457_274924
+[00:04:58 - 00:05:00] %mor:	co|yeah .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] %xpho:	kyup
+[00:04:58 - 00:05:00] *CHI:	this is Elmo it broken yyy . 274924_280606
+[00:04:58 - 00:05:00] %mor:	pro:dem|this cop|be&3S n:prop|Elmo pro:per|it part|break&PASTP .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+[00:04:58 - 00:05:00] %xpho:	Si
+[00:04:58 - 00:05:00] *MOT:	alright +/. 280606_282040
+[00:04:58 - 00:05:00] %mor:	co|alright +/.
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yeah . 282040_282860
+[00:04:58 - 00:05:00] %mor:	co|yeah .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	my leg &=yells this yyy . 282860_289488
+[00:04:58 - 00:05:00] %mor:	det:poss|my n|leg pro:dem|this .
+[00:04:58 - 00:05:00] %gra:	1|2|DET 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+[00:04:58 - 00:05:00] %xpho:	w^dEdu
+[00:04:58 - 00:05:00] *CHI:	&=sighs . 289488_292220
+[00:04:58 - 00:05:00] *MOT:	no . 292220_292728
+[00:04:58 - 00:05:00] %mor:	co|no .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT
+[00:04:58 - 00:05:00] *CHI:	yyy . 292728_295031
+[00:04:58 - 00:05:00] %xpho:	j^ paI^ Su
+[00:04:58 - 00:05:00] *CHI:	yeah, it +/. 295031_296831
+[00:04:58 - 00:05:00] %mor:	co|yeah cm|cm pro:per|it +/.
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	is that +/. 296831_297335
+[00:04:58 - 00:05:00] %mor:	cop|be&3S pro:dem|that +/.
+[00:04:58 - 00:05:00] %gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+[00:04:58 - 00:05:00] *MOT:	that's Elmo . 297335_297846
+[00:04:58 - 00:05:00] %mor:	pro:dem|that~cop|be&3S n:prop|Elmo .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+[00:04:58 - 00:05:00] *CHI:	it broken . 297846_299240
+[00:04:58 - 00:05:00] %mor:	pro:per|it part|break&PASTP .
+[00:04:58 - 00:05:00] %gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+[00:04:58 - 00:05:00] *MOT:	yep . 299240_299937
+[00:04:58 - 00:05:00] %mor:	co|yep .
+[00:04:58 - 00:05:00] %gra:	1|0|INCROOT 2|1|PUNCT

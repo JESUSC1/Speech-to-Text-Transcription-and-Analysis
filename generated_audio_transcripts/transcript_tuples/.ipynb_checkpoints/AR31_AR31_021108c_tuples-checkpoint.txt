@@ -1,0 +1,103 @@
+child: wapa@b &=grunts .
+child: up [/] up [/] up [/] up [/] up  .
+child: &=mumbles .
+mother: say one .
+child: two three go .
+mother: alright !
+mother: did you see it go down the hill ?
+child: yeah down up [/] up [/] up [/] up [/] up [/] up [/] up  .
+mother: up [/] up [/] up  and it went down [/] down [/] down  .
+mother: can you make it go back up the hill ?
+mother: can you make the train go up the hill ?
+mother: make it go up ?
+mother: yay choo_choo !
+child: xxx .
+mother: &~imit:train .
+mother: uhoh .
+mother: ready .
+mother: you gonna [: going to] fix it ?
+mother: wait a minute .
+child: yyy choo_choo .
+mother: &=laughs good job !
+child: yyy choo_choo train yyy yyy .
+mother: yeah it did it won't stay .
+mother: you'd think that would +/.
+mother: alright .
+mother: gotta [: got to] make it go .
+mother: tell Elmo what you're doing .
+child: Elmo, yyy choo_choo train .
+child: xxx yyy choo_choo train .
+mother: is that Ray_Ray's choo_choo train or Elmo's ?
+child: Elmo yyy .
+mother: yeah he's soft .
+mother: is he soft ?
+child: &=yells .
+mother: oh you opened his mouth ?
+mother: can you tell Elmo hey ?
+mother: oh you love Elmo hugs .
+mother: okay we're gonna [: going to] set +/.
+mother: is that Elmo's choo_choo train or is that Ray_Ray's ?
+child: yyy yyy &=grunts .
+mother: he can sit out here he'll watch .
+mother: alright say +"/.
+mother: +" go Ray go !
+mother: uhoh .
+child: yyy go !
+mother: you broke your choo_choo train again .
+mother: alright it's okay .
+mother: aw you kissing Elmo ?
+mother: alright he loves you too .
+child: &=mumbles too .
+child: yyy yyy more choo_choo yyy .
+mother: alright well go ahead play .
+mother: Mommy +/.
+mother: these things do not stay .
+child: choo_choo train [/] train  .
+mother: woohoo Mommy's yellow car went .
+child: &-uh choo_choo train [/] train [/] train  .
+mother: one two three .
+mother: alright way to go &=yells !
+mother: uhoh .
+child: uhoh, choo_choo train !
+mother: you gotta [: have to] get out of the middle !
+child: yeah choo_choo train broken .
+mother: well you keep breaking it you have to stay out of the middle .
+mother: you have to go out here .
+child: yeah choo_choo train .
+mother: Ray where do you need to be on the outside or the inside ?
+child: oh no stuck &=belches .
+mother: god bless you .
+child: yeah bless me .
+child: inside &=belches .
+mother: can you say +/.
+mother: +" excuse me ?
+child: excuse me .
+child: xxx !
+mother: can you get out of the middle ?
+mother: can you come over here ?
+child: yeah yyy .
+mother: can you come right here (..) so Mama can fix it ?
+mother: can you come over here ?
+child: okay .
+child: okay !
+child: hm .
+mother: Ray I don't like this choo_choo train .
+child: &=mumbles choo_choo train broken .
+mother: yeah I don't like it .
+child: yeah like it .
+mother: no I don't like it it keeps breaking .
+child: it yyy ?
+mother: it won't stay together .
+child: hm yyy .
+mother: it will not .
+mother: I don't like it .
+child: you like it ?
+mother: no I don't .
+child: I don't .
+mother: no I don't I don't .
+child: don't yyy .
+mother: I don't like it (be)cause it won't stay together .
+child: yyy choo_choo train .
+mother: I don't know .
+child: oh no, what gonna [: going to] do ?
+mother: I don't know what we're gonna [: going to] do, I guess .
