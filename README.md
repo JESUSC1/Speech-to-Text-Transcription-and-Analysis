@@ -13,12 +13,12 @@ The project utilizes various audio samples as primary data sources. These sample
 ## Libraries Used
 The project utilizes a variety of libraries and services to facilitate speech recognition and data analysis:
 
-- `SpeechRecognition`: Primary Python library for speech-to-text conversion.
-- `Google Cloud Speech-to-Text`: Cloud-based recognition engine explored in the `comparing-speech-to-text-systems` notebook.
-- `AWS SDK for Python (Boto3)`: Utilized in the `comparing-speech-to-text-systems` notebook for AWS Transcribe.
-- `IBM Watson Developer Cloud Python SDK`: Facilitates IBM Watson's speech-to-text services, as explored in the `comparing-speech-to-text-systems` notebook.
-- `Azure SDK for Python`: Explored in the `comparing-speech-to-text-systems` notebook to support Microsoft Azure's speech service.
-- `Rev.ai Python SDK`: Demonstrated in the `comparing-speech-to-text-systems` notebook for accessing the Rev.ai transcription service.
+- `SpeechRecognitio`n: A Python library for performing speech-to-text conversion.
+- `Google Cloud Speech-to-Text`: Google's cloud-based engine for speech recognition.
+- `AWS SDK for Python (Boto3)`: Python SDK to interact with AWS services, including AWS Transcribe.
+- `IBM Watson Developer Cloud Python SDK`: SDK enabling access to IBM Watson's speech-to-text services.
+- `Azure SDK for Python`: Python SDK for interfacing with Microsoft Azure services, including its speech service.
+- `Rev.ai Python SDK`: SDK for integrating with the Rev.ai transcription service.
 
 ---
 ## Analysis
