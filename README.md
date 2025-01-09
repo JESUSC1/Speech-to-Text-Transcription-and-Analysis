@@ -1,4 +1,4 @@
-# Speech-to-Text-Transcription-and-Analysis
+# Speech-to-Text Insights: Transcription and Analysis
 <img src="TalkBank.png" alt="GitHub Image" width="550">
 
 This project delves into the realm of speech recognition, aiming to convert spoken language into written text. Leveraging various libraries and technologies, the project transcribes audio from diverse sources, especially focusing on children's voices, and conducts comprehensive analyses of the transcribed data.
